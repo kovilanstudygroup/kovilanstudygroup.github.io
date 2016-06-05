@@ -1,0 +1,35 @@
+- title: About
+  url: "/about/"
+  side: left
+
+- title: Announcements
+  url: "/announcements/"
+  side: left
+  
+- title: "Essays on Kovilan"
+  url: "/essays-on-kovilan/"
+  side: left
+
+- title: Journal
+  url: "/journal/"
+  side: left
+
+- title: "Life History"
+  url: "/life-history/"
+  side: left
+
+- title: "Members"
+  url: "/members/"
+  side: left
+
+- title: "Photos"
+  url: "https://www.flickr.com/photos/kovilanstudygroup/"
+  side: left
+    
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
