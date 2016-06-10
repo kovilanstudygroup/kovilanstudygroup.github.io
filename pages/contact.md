@@ -3,7 +3,7 @@ layout: page
 title: "Contact"
 meta_title: ""
 subheadline: ""
-teaser: "Get in touch? Use the contact form."
+teaser: ""
 permalink: "/contact/"
 ---
 <div id="wufoo-z5xaumd1enkh4d">
