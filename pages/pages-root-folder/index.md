@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/the-international-kovilan-study-group
+  url: https://tinyletter.com/kovilanstudygroup
   text: Inform me about new updates ›
   style: alert
 permalink: /index.html
